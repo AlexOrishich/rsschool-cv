@@ -2,16 +2,22 @@
 **Student**
 
 ### Contacts
-* +38063393****
+* Kyiv, Ukraine
 * Discord: SILVIO#2555
+* GitHub: alexorishich
+* Telegram: @DARK_SCOUT
 * alexorishich@gmail.com
 
 #### About me
 
 ### Skills
-* 
-* 
-* 
+* HTML5
+* CSS3
+* JavaScript
+### Code
+ ```
+ 
+ ```
 ### Studies (Education)
 * **Primary School 2007-2018**
 luceum #303
@@ -21,4 +27,6 @@ luceum #303
 Faculty of Veterinary Medicine
 Speciality: 211 Veterinary Medicine
 ### Languages
-* English A2
+* English A2 elementary
+### Projects
+https://alexorishich.github.io/rsschool-cv/cv

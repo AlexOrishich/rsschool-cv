@@ -95,7 +95,6 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: #FF965A;
 	width: 100%;
 	max-width: 1200px;
-
 }
 /*Intro*/
 .intro {
@@ -106,6 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 	justify-content: space-around;
 }
 .intro__photo {
+	width: 200px;
 	border-radius: 50% ;
 	box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.45);
 }
@@ -135,6 +135,7 @@ li::marker {
 	/*About*/
 .about__title {
 	color: #FF965A ;
+	font-size: ;
 	text-transform: uppercase;
 }
 .about__item {
